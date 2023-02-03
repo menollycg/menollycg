@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menollycg" alt="menollycg" /></a> </p>
 
+- 🔭 I’m currently working on **Mancala GUI**
+ 
 - 🌱 I’m currently learning **Data Structures, Web Development**
 
 <h3 align="left">Connect with me:</h3>
