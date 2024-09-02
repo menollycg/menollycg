@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menollycg" alt="menollycg" /></a> </p>
 
-- 🔭 I’m currently working on **Battleship**
+- 🔭 I’m currently working on **a password manager**
  
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m currently learning **Computer Graphics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
